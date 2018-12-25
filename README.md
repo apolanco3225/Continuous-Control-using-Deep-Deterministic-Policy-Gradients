@@ -1,4 +1,4 @@
-# Continuous-Control-using-Deep-Deterministic-Policy-Gradients
+# Continuous Control using Deep Deterministic Policy Gradients
 
 
 
@@ -59,4 +59,4 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 
 ## Run
-Follow the instructions in navigation_drl.ipynb to get started with training the agent.
+Follow the instructions in Continuous_Control.ipynb to get started with training the agent.
