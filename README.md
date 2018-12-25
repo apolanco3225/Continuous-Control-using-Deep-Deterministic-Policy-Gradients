@@ -9,17 +9,8 @@ The observation space consists of 33 variables corresponding to position, rotati
 
     
 ### Instructions
-* Set up your environment: 
-
-	nity has to be installed on your system. Run:
-	```
-	source ./install.sh
-	```
-
-	to install python dependencies. Then you should be able to run jupyter notebook and view navigation_drl.ipynb. 
 
 * Install Udacity's environment
-
 
 
 	* To set up your python environment to run the code in this repository, follow the instructions below.
